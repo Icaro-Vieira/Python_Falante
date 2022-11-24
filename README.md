@@ -10,5 +10,6 @@ Bibliotecas utilizadas:
 - `pip install playsound`
 - `pip install gTTS`
 
+### Coloque a frase que deseja transformar em áudio no arquivo `frase.txt` Obs.: Não utilize acentos.
 
 ### Feito isso basta executar dentro da pasta do projeto o arquivo `app.py`
